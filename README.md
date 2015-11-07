@@ -1,1 +1,1 @@
-Hog Bay Software bug reporter.
+TaskPaper issue tracker.
