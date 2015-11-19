@@ -7,3 +7,5 @@ TaskPaper issue tracker:
 - [![Stories in Progress](https://badge.waffle.io/hbsw/tp-issues.png?label=in%20progress&title=In%20Progress)](https://waffle.io/hbsw/tp-issues)
 
 - [![Stories in Complete](https://badge.waffle.io/hbsw/tp-issues.png?label=complete&title=Complete)](https://waffle.io/hbsw/tp-issues)
+
+[![Throughput Graph](https://graphs.waffle.io/hbsw/tp-issues/throughput.svg)](https://waffle.io/hbsw/tp-issues/metrics)
